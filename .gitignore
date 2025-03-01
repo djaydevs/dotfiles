@@ -3,3 +3,5 @@ git/.config/gh/hosts.yml.personal
 git/.config/gh/hosts.yml
 
 git/.gitconfig.work
+
+nvim/.config/nvim/.DS_Store
